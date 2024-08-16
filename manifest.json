@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "staging.d1ewe8sug8ha20.amplifyapp",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "staging.d1ewe8sug8ha20.amplifyapp",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "bird.png",
+      "type": "image/png",
+      "sizes": "62x48"
+    }
+  ]
+}
