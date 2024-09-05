@@ -6,13 +6,14 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "staging.d1ewe8sug8ha20.amplifyapp",
-  "start_url": "/",
+  "start_url": "index.html",
   "theme_color": "#ffffff",
   "icons": [
     {
       "src": "bird.png",
-      "type": "image/png",
-      "sizes": "62x48"
+      "type": "image/x-icon",
+      "sizes": "512x512"
     }
-  ]
+  ],
+  "id": "curriculo"
 }
